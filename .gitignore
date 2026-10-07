@@ -1,0 +1,17 @@
+# MLflow local
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos generados
+confusion_matrix.png
+matriz_confusion.png
+Evidencia1.png
+
+# VS Code
+.vscode/
